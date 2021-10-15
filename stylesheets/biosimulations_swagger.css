@@ -1595,7 +1595,7 @@
  }
 
  .swagger-ui .opblock.opblock-get .opblock-summary-method {
-   background: #3f51b5;
+   background: #2196f3;
  }
 
  .swagger-ui .opblock.opblock-get .opblock-summary {
@@ -1603,7 +1603,7 @@
  }
 
  .swagger-ui .opblock.opblock-get .tab-header .tab-item.active h4 span:after {
-   background: #3f51b5;
+   background: #2196f3;
  }
 
  .swagger-ui .opblock.opblock-patch {
@@ -1612,7 +1612,7 @@
  }
 
  .swagger-ui .opblock.opblock-patch .opblock-summary-method {
-   background: #f57c00;
+   background: #ff9800;
  }
 
  .swagger-ui .opblock.opblock-patch .opblock-summary {
@@ -1620,7 +1620,7 @@
  }
 
  .swagger-ui .opblock.opblock-patch .tab-header .tab-item.active h4 span:after {
-   background: #f57c00;
+   background: #ff9800;
  }
 
  .swagger-ui .opblock.opblock-head {
@@ -1629,7 +1629,7 @@
  }
 
  .swagger-ui .opblock.opblock-head .opblock-summary-method {
-   background: #3f51b5;
+   background: #2196f3;
  }
 
  .swagger-ui .opblock.opblock-head .opblock-summary {
@@ -1637,7 +1637,7 @@
  }
 
  .swagger-ui .opblock.opblock-head .tab-header .tab-item.active h4 span:after {
-  background: #3f51b5;
+  background: #2196f3;
  }
 
  .swagger-ui .opblock.opblock-options {
@@ -1646,7 +1646,7 @@
  }
 
  .swagger-ui .opblock.opblock-options .opblock-summary-method {
-   background: #3f51b5;
+   background: #2196f3;
  }
 
  .swagger-ui .opblock.opblock-options .opblock-summary {
@@ -1654,12 +1654,12 @@
  }
 
  .swagger-ui .opblock.opblock-options .tab-header .tab-item.active h4 span:after {
-   background: #3f51b5;
+   background: #2196f3;
  }
 
  .swagger-ui .topbar {
    padding: 8px 30px;
-   background-color: #3f51b5;
+   background-color: #2196f3;
    box-shadow: 0 5px 5px 0 rgba(0,0,0,.4), 0 3px 1px -2px rgba(0,0,0,.2), 0 1px 5px 0 rgba(0,0,0,.12);
  }
 
@@ -1687,22 +1687,22 @@
    -webkit-transition: all .4s;
    transition: all .4s;
    font-family: Open Sans, sans-serif;
-   color: #3f51b5;
+   color: #2196f3;
  }
 
  .swagger-ui .info a:hover {
-   color: #3f51b5;
+   color: #2196f3;
  }
 
  .swagger-ui .btn.authorize {
    line-height: 1;
    display: inline;
-   color: #3f51b5;
-   border-color: #3f51b5;
+   color: #2196f3;
+   border-color: #2196f3;
  }
 
  .swagger-ui .btn.authorize svg {
-   fill: #3f51b5;
+   fill: #2196f3;
  }
 
  body {
