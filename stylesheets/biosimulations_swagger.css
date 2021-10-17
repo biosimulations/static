@@ -24,5 +24,9 @@
  }
 
 .swagger-ui img {
-    content: url(https://static.biosimulations.org/biosimulations-logo/logo.svg);
-}
+   content: url(https://static.biosimulations.org/biosimulations-logo/logo.svg);
+ }
+
+ .swagger-ui a {
+   color: #2196f3;
+ }

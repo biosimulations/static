@@ -25,4 +25,8 @@
 
  swagger-ui img {
     content: url(https://static.biosimulations.org/biosimulators-logo/logo.svg);
-}
+ }
+
+ .swagger-ui a {
+   color: #ff9800;
+ }
