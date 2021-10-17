@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@import url('./common_swagger.css');
+
+ .swagger-ui .topbar {
+   background-color: #ff9800;
+ }
+
+ .swagger-ui .info a {
+   color: #ff9800;
+ }
+
+ .swagger-ui .info a:hover {
+   color: #ff9800;
+ }
+
+ .swagger-ui .btn.authorize {
+   color: #ff9800;
+   border-color: #ff9800;
+ }
+
+ .swagger-ui .btn.authorize svg {
+   fill: #ff9800;
+ }
+
+ swagger-ui img {
+    content: url(https://static.biosimulations.org/biosimulators-logo/logo.svg);
+}
