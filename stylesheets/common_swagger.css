@@ -1705,7 +1705,7 @@
 
  body {
    margin:0;
-   background: #ffffff;
+   background: #ffffff !important;
    font-family: "Roboto","Helvetica","Arial",sans-serif;
  }
 
