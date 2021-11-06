@@ -23,7 +23,7 @@
    fill: #ff9800;
  }
 
- swagger-ui img {
+ .swagger-ui img {
     content: url(https://static.biosimulations.org/biosimulators-logo/logo.svg);
  }
 
