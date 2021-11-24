@@ -9,7 +9,7 @@
 }
 
 .login .argo__logo {
-    background-image: url("biosimulations-logo/logo-github-social.png");
+    background-image: url("https://static.biosimulations.org/biosimulations-logo/logo-github-social.png");
     background-repeat: no-repeat;
     background-size: contain;
     min-height: 200px;
@@ -20,5 +20,5 @@
 
 .login__logo img.logo-image {
     max-width: 50%;
-    content: url(biosimulations-logo/logo-gravatar.png);
+    content: url("https://static.biosimulations.org/biosimulations-logo/logo-gravatar.png");
 }
