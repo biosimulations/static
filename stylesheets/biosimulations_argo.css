@@ -1,0 +1,24 @@
+.login__text:after {
+    content: "Welcome to BioSimulations Deployments";
+    visibility: visible;
+    display: block;
+}
+
+.login__text {
+    visibility: hidden;
+}
+
+.login .argo__logo {
+    background-image: url("biosimulations-logo/logo-github-social.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 200px;
+    margin: auto;
+    background-position: center;
+    height: 50vh;
+}
+
+.login__logo img.logo-image {
+    max-width: 50%;
+    content: url(biosimulations-logo/logo-gravatar.png);
+}
