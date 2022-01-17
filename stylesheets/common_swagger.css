@@ -1333,6 +1333,7 @@
 
 .swagger-ui .info p {
   font-size: 14px;
+  line-height: 20px;
   font-family: Raleway, Open Sans, sans-serif;
   color: #3b4151
 }
