@@ -1667,7 +1667,7 @@
  }
 
  .swagger-ui .topbar {
-   padding: 8px 30px;
+   padding: 8px 1rem;
  }
 
  .swagger-ui .topbar .download-url-wrapper input[type=text] {
